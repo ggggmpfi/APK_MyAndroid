@@ -9,6 +9,6 @@ mathematics.apk:体积小但功能强大的计算器！
 
 netanalyzer.apk:网络分析工具！（查询局域网ip，ping......)
 
-wifianalyzer.apk:无线网络通道分析！
+wifianalyzer.apk:无线网络通道分析工具！
 
 juicessh_performancemonitor.apk：查看电脑内存、CPU状态！
